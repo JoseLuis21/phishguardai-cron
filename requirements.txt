@@ -1,0 +1,7 @@
+# Python 3.10+; instalar en un entorno virtual
+openai
+python-dotenv
+PyMySQL
+dnspython
+geoip2
+IMAPClient
